@@ -1,0 +1,18 @@
+{
+  "name": "wd201l-4",
+  "version": "1.0.0",
+  "description": "leval 4 new package",
+  "main": "assert.js",
+  "scripts": {
+    "test": "jest",
+    "prepare": "husky install"
+  },
+  "author": "meghal",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.0.3"
+  },
+  "devDependencies": {
+    "husky": "^8.0.1"
+  }
+}
